@@ -1,7 +1,7 @@
 # Shape-Global-Task-Backend-ASP.NET
 
-#cd .\UserRegistrationAPI
+cd .\UserRegistrationAPI
 
-#dotnet run
+dotnet run
 
 #Server runs on localhost:7297
